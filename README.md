@@ -1,5 +1,12 @@
-# HTB-Boxes-Writeups
+# HTB Writeups
 
-Hello Folks! 
+Detailed walkthroughs of HackTheBox machines. Each writeup covers full exploitation chain from enumeration to root.
 
-This is my Writeups of HTB Boxes , I am preparing for OSCP so i recently shift from THM to HTB . Here i am taking notes while solving Boxes.
+## Writeups
+
+| Machine | Difficulty | OS | Category |
+|---------|-----------|-----|----------|
+| [Blazorized](Blazorized/Blazorized.md) | Hard | Windows | Active Directory |
+| [Skyfall](Skyfall/Skyfall.md) | Insane | Linux | CVE Exploitation |
+
+More writeups coming soon.
